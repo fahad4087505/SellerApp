@@ -1,14 +1,12 @@
 import 'package:flutter/material.dart';
 
 class MyTheme {
-  static const Color app_accent_color = const Color.fromRGBO(46, 41, 78, 1);
+  static const Color app_accent_color = const Color.fromRGBO(1, 175, 251,1);
   static Color app_accent_color_extra_light =
       Color.fromRGBO(233, 233, 240, 1.0);
 
-  static Color splash_screen_color = Color.fromRGBO(
-      46, 41, 78, 1); // if not sure , use the same color as accent color
-  static Color login_reg_screen_color = Color.fromRGBO(
-      46, 41, 78, 1); // if not sure , use the same color as accent color
+  static Color splash_screen_color = Color.fromRGBO(1, 175, 251,1); // if not sure , use the same color as accent color
+  static Color login_reg_screen_color = Color.fromRGBO(1, 175, 251,1); // if not sure , use the same color as accent color
 
   /*configurable colors ends*/
 
