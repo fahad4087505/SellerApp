@@ -4,7 +4,7 @@ class AppConfig {
   static String copyright_text =
       "@ ActiveItZone " + this_year; //this shows in the splash screen
   static String app_name =
-      "Active eCommerce seller app"; //this shows in the splash screen
+      "Seller | Source Africa"; //this shows in the splash screen
   static String purchase_code =
       "be7c8d16-db39-4fca-8254-b3d7caa734c4"; //enter your purchase code for the app from codecanyon
   static String system_key =
